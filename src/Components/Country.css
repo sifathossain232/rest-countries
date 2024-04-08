@@ -1,0 +1,10 @@
+.country{
+    margin: 20px;
+    padding: 20px;
+    background-color: bisque;
+    border-radius: 20px;
+}
+.flagsimg{
+    height: 96px;
+    width: auto;
+}
